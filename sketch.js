@@ -59,7 +59,7 @@ function draw() {
     }
   }
 
-  // draw ellipse on thumb
+  // draw stuff on our hands
   if (hands.length > 0) {
     // our tracking points
     let thumb = scalePoint(hands[0].keypoints[4], video); // by number
