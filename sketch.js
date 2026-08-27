@@ -1,3 +1,12 @@
+/*
+Useful tracking points:
+- thumb tip: 4
+- index finger tip: 8
+- middle finger tip: 12
+- ring finger tip: 16
+- pinky tip: 20
+*/
+
 /* - - Variables - - */
 let handPose;
 let webcam;

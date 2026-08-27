@@ -26,5 +26,19 @@ A small p5.js sketch that uses your webcam and ml5 HandPose to track hand landma
 
 ---
 
+## Tracking points
+
+**Useful points**
+- thumb tip: 4
+- index finger tip: 8
+- middle finger tip: 12
+- ring finger tip: 16
+- pinky tip: 20
+
+**All points**
+![Preview](/tracking-points.jpg)
+
+---
+
 For feedback and improvement ideas feel free to reach out to [info@nahuelgerth.de](mailto:info@nahuelgerth.de)
 
